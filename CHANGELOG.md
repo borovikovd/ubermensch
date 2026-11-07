@@ -1,5 +1,15 @@
 # Changelog
 
+## [0.6.1](https://github.com/borovikovd/ubermensch/compare/v0.6.0...v0.6.1) (2026-11-07)
+
+
+### Bug Fixes
+
+* **reading:** list the attachments of a message forwarded as an attachment ([a3f6786](https://github.com/borovikovd/ubermensch/commit/a3f67860e6eda2de9a9f4d753ada4b8a029f0c1d))
+* **reading:** show mail declared as ISO-2022-KR or HZ-GB-2312 instead of one blank glyph ([89d31de](https://github.com/borovikovd/ubermensch/commit/89d31de162b606b6cbf6359a3a19df08573b93d6))
+* **search:** find the words of an HTML message whose tag has a stray quote ([86aeb64](https://github.com/borovikovd/ubermensch/commit/86aeb64f20573c4181ae03e8a2ffa06ccc908206))
+* **search:** stop a search for is:list alone from listing the whole mailbox ([ea0d472](https://github.com/borovikovd/ubermensch/commit/ea0d4725e1ed0866de234870d600b5a9e10f1a24))
+
 ## [0.6.0](https://github.com/borovikovd/ubermensch/compare/v0.5.2...v0.6.0) (2026-11-07)
 
 
